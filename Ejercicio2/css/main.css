@@ -1,0 +1,30 @@
+h1{
+	color:red; 
+	font-weight:500; 
+	font-family:Arial; 
+	font-size:20px;
+}
+
+h2{
+	color:black; 
+	font-size:16px
+}
+
+img{
+	style= "border:solid blue 1px;
+}
+
+li: first-child{
+	style="color:yellow; 
+	font-size:14px;
+}
+
+/* *{
+	font-family: 'Montserrat', sans-serif;
+} */
+/* Google fonts. Fuente para todo el documento */
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+}
+ /* Fuente que aplica solo al h1 */
